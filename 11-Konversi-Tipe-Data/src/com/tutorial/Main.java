@@ -6,7 +6,7 @@ public class Main {
         //program untuk konversi data
 
         int nilaiInt = 89;
-        System.out.println("hasil nilaiInt = " + nilaiInt);
+        System.out.println("hasil nilaiIntltt = " + nilaiInt);
 
         //memperlias rentang ke tipe data lebih besar
 
